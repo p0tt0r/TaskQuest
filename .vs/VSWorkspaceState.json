@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Main_file",
+    "\\Main_file\\Backend",
+    "\\Main_file\\Backend\\AppRequests",
+    "\\Main_file\\Backend\\ClientBase",
+    "\\Main_file\\Backend\\DatabaseAcces",
+    "\\Main_file\\Backend\\MagazinMn",
+    "\\Main_file\\Frontend"
   ],
+  "SelectedNode": "\\Main_file\\Frontend\\pop5.txt",
   "PreviewInSolutionExplorer": false
 }
