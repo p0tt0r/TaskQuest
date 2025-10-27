@@ -1,0 +1,15 @@
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\bin\Debug\net8.0\Sourse.exe
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\bin\Debug\net8.0\Sourse.deps.json
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\bin\Debug\net8.0\Sourse.runtimeconfig.json
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\bin\Debug\net8.0\Sourse.dll
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\bin\Debug\net8.0\Sourse.pdb
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.AssemblyInfoInputs.cache
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.AssemblyInfo.cs
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.csproj.CoreCompileInputs.cache
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.sourcelink.json
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.dll
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\refint\Sourse.dll
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.pdb
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\Sourse.genruntimeconfig.cache
+C:\Users\Gertsog\source\repos\p0tt0r\TaskQuest\Main_file\Backend\Sourse\Sourse\obj\Debug\net8.0\ref\Sourse.dll
