@@ -3,12 +3,9 @@
     "",
     "\\Main_file",
     "\\Main_file\\Backend",
-    "\\Main_file\\Backend\\AppRequests",
-    "\\Main_file\\Backend\\ClientBase",
-    "\\Main_file\\Backend\\DatabaseAcces",
-    "\\Main_file\\Backend\\MagazinMn",
-    "\\Main_file\\Frontend"
+    "\\Main_file\\Backend\\Sourse",
+    "\\Main_file\\Backend\\Sourse\\Main"
   ],
-  "SelectedNode": "\\Main_file\\Frontend\\pop5.txt",
+  "SelectedNode": "\\Main_file\\Backend\\Sourse\\Main\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\Sourse\\Sourse.csproj",
+      "projectUniqueName": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\Main\\Sourse.csproj",
       "projectName": "Sourse",
-      "projectPath": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\Sourse\\Sourse.csproj",
+      "projectPath": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\Main\\Sourse.csproj",
       "packagesPath": "C:\\Users\\Gertsog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\Sourse\\obj\\",
+      "outputPath": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

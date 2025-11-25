@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\apitaskquest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:apitaskquest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\apitaskquest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:apitaskquest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\models\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:models\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|c:\\users\\gertsog\\source\\repos\\p0tt0r\\taskquest\\main_file\\backend\\sourse\\apitaskquest\\models\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821FE10-340B-4E89-8CC4-4A140B320C9D}|apiTaskQuest.csproj|solutionrelative:models\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Models\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "Models\\TaskResponse.cs",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Models\\TaskResponse.cs",
+              "RelativeToolTip": "Models\\TaskResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:09:58.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\apiTaskQuest\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\apiTaskQuest\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Services\\ITaskService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:09:07.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Models\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CreateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Models\\CreateTaskRequest.cs",
+              "RelativeToolTip": "Models\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:08:07.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\apiTaskQuest\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\apiTaskQuest\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Controllers\\TasksController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:01:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T13:47:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:59:59.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:09:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apiTaskQuest.http",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\apiTaskQuest.http",
+              "RelativeDocumentMoniker": "apiTaskQuest.http",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\APITaskQuest\\apiTaskQuest.http",
+              "RelativeToolTip": "apiTaskQuest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-24T17:01:28.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apiTaskQuest",
+              "DocumentMoniker": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\apiTaskQuest\\apiTaskQuest.csproj",
+              "RelativeDocumentMoniker": "apiTaskQuest.csproj",
+              "ToolTip": "C:\\Users\\Gertsog\\source\\repos\\p0tt0r\\TaskQuest\\Main_file\\Backend\\Sourse\\apiTaskQuest\\apiTaskQuest.csproj",
+              "RelativeToolTip": "apiTaskQuest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T14:06:48.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
